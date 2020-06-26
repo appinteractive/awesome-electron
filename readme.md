@@ -236,6 +236,7 @@ Made with Electron.
 
 ## Boilerplates
 
+- [electron-vite-tailwindcss-starter](https://github.com/appinteractive/electron-vite-tailwindcss-starter) - Electron, Vite, Tailwind Starter - by [appinteractive](http://github.com/appinteractive).
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app - by [sindresorhus](http://github.com/sindresorhus).
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers - by [szwacz](https://github.com/szwacz).
